@@ -1,0 +1,6 @@
+dataset_id,name,creator,license
+1444124d,CoolImages,Fazi,MIT
+c232e7fd,ImageNet,Stanford,CC BY 4.0
+a3c51e4a,COCO,Microsoft,CC BY 4.0
+84755ddd,MNIST,Yann LeCun,Open Access
+1fbf95df,OpenImages,Google,CC BY
